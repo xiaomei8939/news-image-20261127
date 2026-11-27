@@ -1,8 +1,8 @@
 # The World in One Image — Friday 27 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/news-image-20261127)
-[![Reward](https://img.shields.io/badge/reward-%24100%20prize%20pool-green)](https://make.fun/c/news-image-20261127)
-[![Rank](https://img.shields.io/badge/rank-awaiting%20judging-lightgrey)](https://make.fun/c/news-image-20261127)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/xiaomei8939/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/xiaomei8939/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 A single 1024×1024 news infographic summing up the world's news of
 **Friday 27 November 2026** — seven verified stories across the Middle East,
